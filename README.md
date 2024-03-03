@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Gabriel</h1>
-<h3 align="center">Software developer studying at 42 Lisbon</h3>
+![Header](./github-header-image.png)
 
 - 🔭 I’m currently working on **ft_transcendance**
 
