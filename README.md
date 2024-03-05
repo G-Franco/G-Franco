@@ -24,4 +24,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
+## 42 School Projects
+
+| Project | Description |
+| --- | --- |
+| [libft](https://github.com/Zen55er/libft) | --- |
+| [ft_printf](https://github.com/Zen55er/ft_printf) | --- |
+| [get_next_line](https://github.com/Zen55er/get_next_line) | --- |
+| [born2beroot](https://github.com/Zen55er/born2beroot) | --- |
+| [push_swap](https://github.com/Zen55er/push_swap) | --- |
+| [so_long](https://github.com/Zen55er/so_long) | --- |
+| [pipex](https://github.com/Zen55er/pipex) | --- |
+| [Minishell](https://github.com/Zen55er/Minishell) | --- |
+| [Philosophers](https://github.com/Zen55er/Philosophers) | --- |
+| [NetPractice](https://github.com/Zen55er/Net_practice) | --- |
+| [CPP modules](https://github.com/Zen55er/CPP-modules) | --- |
+| [cub3d](https://github.com/Zen55er/cub3d) | --- |
+| [ft_irc](https://github.com/Zen55er/ft_irc) | --- |
+| [Inception](https://github.com/Zen55er/Inception) | --- |
+| [ft_transcendence]() | --- |
+
 ###
