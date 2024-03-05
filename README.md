@@ -30,22 +30,22 @@
 
 ## 42 School Projects
 
-| Project | Description |
-| --- | --- |
-| [libft](https://github.com/Zen55er/libft) | --- |
-| [ft_printf](https://github.com/Zen55er/ft_printf) | --- |
-| [get_next_line](https://github.com/Zen55er/get_next_line) | --- |
-| [born2beroot](https://github.com/Zen55er/born2beroot) | --- |
-| [push_swap](https://github.com/Zen55er/push_swap) | --- |
-| [so_long](https://github.com/Zen55er/so_long) | --- |
-| [pipex](https://github.com/Zen55er/pipex) | --- |
-| [Minishell](https://github.com/Zen55er/Minishell) | --- |
-| [Philosophers](https://github.com/Zen55er/Philosophers) | --- |
-| [NetPractice](https://github.com/Zen55er/Net_practice) | --- |
-| [CPP modules](https://github.com/Zen55er/CPP-modules) | --- |
-| [cub3d](https://github.com/Zen55er/cub3d) | --- |
-| [ft_irc](https://github.com/Zen55er/ft_irc) | --- |
-| [Inception](https://github.com/Zen55er/Inception) | --- |
-| [ft_transcendence]() | --- |
+| Project | Mark | Language | Description |
+| --- | --- | --- | --- |
+| <a href="https://github.com/Zen55er/libft">![42 Libft](https://github.com/Zen55er/Zen55er/blob/main/libftm.png)</a> | 125 | C | --- |
+| <a href="https://github.com/Zen55er/ft_printf">![42 Printf](https://github.com/Zen55er/Zen55er/blob/main/ft_printfn.png)</a> | 100 | C | --- |
+| <a href="https://github.com/Zen55er/get_next_line">![42 Printf](https://github.com/Zen55er/Zen55er/blob/main/get_next_linee.png)</a> | 112 | C | --- |
+| <a href="https://github.com/Zen55er/born2beroot">![42 Born2beRoot](https://github.com/Zen55er/Zen55er/blob/main/born2beroote.png)</a> | 110 | shell | --- |
+| <a href="https://github.com/Zen55er/push_swap">![42 Push_Swap](https://github.com/Zen55er/Zen55er/blob/main/push_swapn.png)</a> | 96 | C | --- |
+| <a href="https://github.com/Zen55er/so_long">![42 So_Long](https://github.com/Zen55er/Zen55er/blob/main/so_longm.png)</a> | 125 | C | --- |
+| <a href="https://github.com/Zen55er/pipex">![42 Pipex](https://github.com/Zen55er/Zen55er/blob/main/pipexm.png)</a> | 125 | C | --- |
+| <a href="https://github.com/Zen55er/Minishell">![42 Minishell](https://github.com/Zen55er/Zen55er/blob/main/minishelle.png)</a> | 123 | C | --- |
+| <a href="https://github.com/Zen55er/Philosophers">![42 Philosophers](https://github.com/Zen55er/Zen55er/blob/main/philosophersm.png)</a> | 125 | C | --- |
+| <a href="https://github.com/Zen55er/Net_practice">![42 Net_Practice](https://github.com/Zen55er/Zen55er/blob/main/netpracticen.png)</a> | 100 | - | --- |
+| <a href="https://github.com/Zen55er/CPP-modules">![42 CPP_Modules](https://github.com/Zen55er/Zen55er/blob/main/cppm.png)</a> | 100 | C++ | --- |
+| <a href="https://github.com/Zen55er/cub3d">![42 CPP_cub3d](https://github.com/Zen55er/Zen55er/blob/main/cub3de.png)</a> | 115 | C | --- |
+| <a href="https://github.com/Zen55er/ft_irc">![42 ft_irc](https://github.com/Zen55er/Zen55er/blob/main/ft_ircm.png)</a> | 125 | C++ | --- |
+| <a href="https://github.com/Zen55er/Inception">![42 Inception](https://github.com/Zen55er/Zen55er/blob/main/inceptionn.png)</a> | 100 | Docker, shell | --- |
+| <a href="https://github.com/Zen55er">![42 ft_Transcendance](https://github.com/Zen55er/Zen55er/blob/main/ft_transcendencem.png)</a> | In progress | Javascript | --- |
 
 ###
