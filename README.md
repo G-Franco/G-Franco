@@ -1,5 +1,9 @@
 ![Header](./github-header-image.png)
 
+###
+[![gacorrei's 42 stats](https://badge.mediaplus.ma/darkblue/gacorrei?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+###
+
 - 🔭 I’m currently working on **ft_transcendance**
 
 - 🌱 I’m currently learning **Three.js**
