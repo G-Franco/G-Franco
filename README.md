@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ft_transcendance**
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
