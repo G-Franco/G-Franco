@@ -46,6 +46,6 @@
 | <a href="https://github.com/Zen55er/cub3d">![42 CPP_cub3d](https://github.com/Zen55er/Zen55er/blob/main/cub3de.png)</a> | 115 | C | First person perspective game using raycasting to simulate 3D |
 | <a href="https://github.com/Zen55er/ft_irc">![42 ft_irc](https://github.com/Zen55er/Zen55er/blob/main/ft_ircm.png)</a> | 125 | C++ | Creating an IRC server that can handle multiple clients and basic IRC functionalities |
 | <a href="https://github.com/Zen55er/Inception">![42 Inception](https://github.com/Zen55er/Zen55er/blob/main/inceptionn.png)</a> | 100 | Docker, shell | A multi container project to create a Wordpress website served by Nginx while using a database|
-| <a href="https://github.com/Zen55er">![42 ft_Transcendance](https://github.com/Zen55er/Zen55er/blob/main/ft_transcendencem.png)</a> | In progress | Javascript | Create a secure backend and frontend to host a competitive pong game |
+| <a href="https://github.com/Zen55er/ft_transcendence">![42 ft_Transcendance](https://github.com/Zen55er/Zen55er/blob/main/ft_transcendencem.png)</a> | In progress | Javascript | Create a secure backend and frontend to host a competitive pong game |
 
 ###
