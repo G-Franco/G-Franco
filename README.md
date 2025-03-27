@@ -4,7 +4,7 @@
 [![gacorrei's 42 stats](https://badge.mediaplus.ma/darkblue/gacorrei?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 ###
 
-- 🔭 I’m currently working on **ft_transcendance**
+- 🔭 I’m currently working on **C++ piscine object**
 
 - 🌱 I’m currently learning **Rust**
 
